@@ -1,0 +1,7 @@
+​ {
+  “版本”：2
+  "routes": [
+  	{"src": "/(.*)","dest": "http://fugon.gearhostpreview.com/$1"}
+  ]
+}
+​
