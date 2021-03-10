@@ -1,6 +1,6 @@
 {
   “版本”： 2，
   “路线”：[
-      { “ src ”：“ /(.*）”，“ dest ”：“http://fugon.gearhostpreview.com/$1 ” }
+      { “ src ”：“ /(.*）”，“ dest ”：“http://www.cdgfss.edu.hk/$1 ” }
   ]
 }
